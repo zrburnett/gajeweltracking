@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Zachary Burnett",
-  "license": "GNU General Public License v3.0"
+  "license": "GNU General Public License v3.0",
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+
+
+  }
 }
